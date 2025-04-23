@@ -1,0 +1,7 @@
+type,question,option1,option2,option3,option4,answer
+choice,請問1+1=?,1,2,3,4,2
+fill,請填寫2+2的答案,,,,,4
+choice,請問2+2=?,2,3,4,5,4
+choice,請問3+3=?,5,6,7,8,6
+fill,請填寫5+5的答案,,,,,10
+fill,請填寫6+6的答案,,,,,12
