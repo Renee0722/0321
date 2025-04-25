@@ -1,5 +1,5 @@
 type,question,option1,option2,option3,option4,answer
-choice,請問教科系主要在學什麼=?,做實驗,畫畫,教育與科技,醫療照護
+choice,請問教科系主要在學什麼=?,做實驗,畫畫,教育與科技,醫療照護,教育與科技
 fill,請填寫2+2的答案,,,,,4
 choice,請問2+2=?,2,3,4,5,4
 choice,請問3+3=?,5,6,7,8,6
